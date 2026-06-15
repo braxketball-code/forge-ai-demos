@@ -1,40 +1,43 @@
-**Forge AI** — Custom AI Agents & Automations for Real Estate, Fitness & Ecommerce
+**Forge AI** — Custom AI Agents & Automations for Real Estate Agents
 
-Fast, done-for-you chatbots and automations that qualify leads, book appointments, handle support, and recover sales 24/7.
+24/7 lead qualification, property tour booking, buyer/seller follow-ups, listing descriptions, and transaction support — implemented fast for busy realtors.
 
-## Service Packages (2026 Pricing)
+## Real Estate Focused Packages (2026 Pricing)
 
-### Starter — Lead & Booking Agent | $497 one-time
-- Website, Instagram, or Facebook chatbot
-- Qualifies leads, answers FAQs, books consultations/classes
+### Starter — Lead & Tour Booking Agent | $497 one-time
+- Website, Instagram, Facebook, or Zillow-connected chatbot
+- Qualifies buyer/seller leads (price range, timeline, pre-approval status, must-haves)
+- Answers property FAQs and books showings/tours automatically via Calendly or your calendar
 - 3-5 day delivery
-- Ideal for: Real estate agents (inquiries → tours), fitness coaches (leads → signups), small ecom (product questions)
+- Perfect for solo agents or small teams losing leads after hours or on weekends
 
-### Pro — Sales & Support Automation | $997 one-time
-- Multi-channel (chat + email/SMS)
-- Abandoned cart recovery, lead nurturing, smart handoff to human
-- CRM-friendly (simple integrations)
+### Pro — Full Lead Nurturing & Follow-Up System | $997 one-time
+- Multi-channel (chat + email + SMS)
+- Instant lead response + smart follow-up sequences for new leads, open house attendees, and past clients
+- Abandoned inquiry recovery, market report delivery, listing alerts
+- CRM handoff (Follow Up Boss, Lofty, etc. friendly)
 - 5-7 day delivery
-- Ideal for: Businesses losing leads after hours or dealing with high support volume
+- Ideal for agents wanting consistent pipeline without manual chasing
 
-### Premium — Custom AI Business Co-Pilot | $1,997+
-- Tailored multi-agent system matching your exact workflows
-- Training + 30-day optimization included
-- Optional monthly support & reporting: $297/mo
-- Ideal for: Operators who want a true 24/7 team member
+### Premium — Custom AI Real Estate Co-Pilot | $1,997+
+- Tailored agents for your exact workflow: listing content generator, seller prospecting, transaction coordinator lite, client onboarding
+- Training session for you and/or team
+- 30-day optimization included
+- Optional monthly support & performance reporting: $297/mo
+- Best for agents scaling to multiple listings or building a small team
 
-## Why This Works Fast
-- Clear ROI for the niches (more booked calls, less time on repetitive work)
-- Technical delivery (real code + platform setups) + sales experience
-- Low client friction: we handle build, you get results
+## Why Real Estate Agents Choose This
+- Clear ROI: More qualified showings booked, faster response times (buyers expect instant), time back for closings and marketing
+- We handle the tech (custom prompts + integrations). You stay in control.
+- Fast implementation. No long contracts.
 
-## Sample Deliverables in This Repo
-See the /samples folder for example agents and prompts you can adapt or show clients.
+## Portfolio & Samples
+See /samples for real-estate-specific code examples and prompt templates you can review or adapt.
 
-## Next Steps for Prospects
-Book a free 15-min strategy call to audit what an agent could do for your specific business.
+## Next Step for Agents
+Book a free 15-minute strategy call. We'll audit your current lead sources (website, IG, Facebook, Zillow, etc.) and show exactly what an agent could capture for you.
 
-Contact: [Update with your details]
+Contact / Calendly: [Update with your details]
 
 ---
-Built for fast, profitable client work. Fork or star if you're exploring similar services.
+Real estate only focus for now. High-converting, practical AI that actually books more business.
